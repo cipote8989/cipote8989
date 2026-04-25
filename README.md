@@ -10,6 +10,6 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 - 
 [Mi LinkedIn](https://www.linkedin.com/in/luis-llanos-89329b405/)
 
-![Mi LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Spider-Man.jpg/1280px-Spider-Man.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Spider-Man.jpg/1280px-Spider-Man.jpg" width="200">
 
-![Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+<img src="https://github.com/cipote8989/cipote8989/blob/main/spiderman-suit-icon-logo-super-600nw-2407844867.webp?raw=true)" width="200">
